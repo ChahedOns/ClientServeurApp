@@ -1,0 +1,36 @@
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+
+
+Fin de tâche! 
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+server accept the client...
+	 Un  client a envoyé un msg  
+ 	 Réponse envoyée ! 
+--------------------------------------------------
+
+Fin de tâche! 
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+server accept the client...
+	 Un  client a envoyé un msg  
+ 	 Réponse envoyée ! 
+--------------------------------------------------
+server accept the client...
+	 Un  client a envoyé un msg  
+ 	 Réponse envoyée ! 
+--------------------------------------------------
+Fin de tâche! 
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+
+server accept the client...
+	 Un  client a envoyé un msg  
+ 	 Réponse envoyée ! 
+--------------------------------------------------
+Fin de tâche! 

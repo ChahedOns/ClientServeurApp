@@ -1,0 +1,15 @@
+Socket serveur crée avec succées...
+Erreur lors d'effectuée la liaison...
+Socket serveur Socket serveur crée avec succées..
+Liaison effectuée avec succés..
+Server en écoute..
+Client accepté...
+	 Un  client a envoyé un msg  
+ 	 Réponse envoyée ! 
+--------------------------------------------------
+Fin de tâche! 
+Socket serveur crée avec succées..
+Liaison effectuée avec succés..
+Server en écoute..
+
+Fin de tâche! 
